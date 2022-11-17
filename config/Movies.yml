@@ -42,7 +42,7 @@ collections:
     template:
       name: manual-collection
     sort_title: Dragon_Ball_4
-    tmdb_collection_details:
+    tmdb_collection:
       - 386410 #Dragon Ball Collection
       - 425164 #Dragon Ball Z Collection
       - 620873 #Dragon Ball Super Collection
