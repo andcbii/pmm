@@ -194,4 +194,24 @@ metadata:
     content_rating: PG-13
   Zoey's Extraordinary Christmas:
     content_rating: TV-14
+  Batman1:
+    title: Batman
+    year: 1966
+    sort_title: Batman_1966
+  Batman2:
+    title: Batman
+    year: 1989
+    sort_title: Batman_1989
+  Batman Returns:
+    sort_title: Batman_1992
+  Batman Forever:
+    sort_title: Batman_1995
+  Batman & Robin:
+    sort_title: Batman_1997
+  Batman Begins:
+    sort_title: Batman_2005
+  "Batman v Superman: Dawn of Justice":
+    sort_title: Batman_2016
+  The Batman:
+    sort_title: Batman_2022
   run_again: true
