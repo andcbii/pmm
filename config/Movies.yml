@@ -46,6 +46,30 @@ collections:
       - 386410 #Dragon Ball Collection
       - 425164 #Dragon Ball Z Collection
       - 620873 #Dragon Ball Super Collection
+  Batman (DC Universe Animated) Collection:
+    template:
+      name: manual-collection
+    sort_title: Batman_A_Animated
+    tmdb_collection_details:
+      - 421904 #Batman (DC Universe Animated) Collection
+  Batman Animated Collection:
+    template:
+      name: manual-collection
+    sort_title: Batman_B_Animated
+    tmdb_movie:
+      - 485942 #Batman Ninja (2018)
+      - 581997 #Batman vs. Teenage Mutant Ninja Turtles (2019)
+      - 321528 #Batman vs. Robin (2015)
+      - 242643 #Batman: Assault on Arkham (2014)
+      - 366924 #Batman: Bad Blood (2016)
+      - 471474 #Batman: Gotham by Gaslight (2018)
+      - 13851 #Batman: Gotham Knight (2008)
+      - 537056 #Batman: Hush (2019)
+      - 411736 #Batman: Return of the Caped Crusaders (2016)
+      - 472027 #Batman: The Dark Knight Returns (2013)
+      - 382322 #Batman: The Killing Joke (2016)
+      - 40662 #Batman: Under the Red Hood (2010)
+      - 69735 #Batman: Year One (2011)
 dynamic_collections:
   TMDb Collections:          # This name is the mapping name
     template: auto-collection
@@ -61,4 +85,5 @@ dynamic_collections:
       - 386410 #Dragon Ball Collection
       - 425164 #Dragon Ball Z Collection
       - 620873 #Dragon Ball Super Collection
+      - 421904 #Batman (DC Universe Animated) Collection
 
