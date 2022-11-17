@@ -4,19 +4,7 @@ templates:
     collection_order: release
     minimum_items: 2
     collection_mode: hide
-#  Actor:
-#    actor: tmdb
-#    tmdb_person: <<person>>
-#    tmdb_actor_details: <<person>>
-#    sort_title: +_<<collection_name>>
-#    sync_mode: sync
-#    collection_order: release
-#    collection_mode: hide
 collections: 
-#  Bill Murray:
-#    template: {name:  Actor, person: 1532}
-#  Dwayne Johnson:
-#    template: {name:  Actor, person: 18918}
   Pok\u00e9mon Collection:
     tmdb_collection_details:
       - 34055 #pokemon
