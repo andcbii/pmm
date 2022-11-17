@@ -5,7 +5,7 @@ templates:
     minimum_items: 2
     collection_mode: hide
 collections: 
-  Pok\u00e9mon Collection:
+  Pokemon Collection:
     tmdb_collection_details:
       - 34055 #pokemon
       - 661029 #pokemon
