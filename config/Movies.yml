@@ -20,6 +20,11 @@ collections:
     tmdb_movie:
       - 36897 #Pokémon: Mewtwo Returns (2001)
       - 571891 #Pokemon the Movie: Mewtwo Strikes Back - Evolution (2019)
+  Dragon Ball Collection:
+    template:
+      name: manual-collection
+    tmdb_collection_details:
+      - 386410 #Dragon Ball Collection
 dynamic_collections:
   TMDb Collections:          # This name is the mapping name
     template: auto-collection
@@ -32,3 +37,7 @@ dynamic_collections:
       - 661025 #Pokémon: Advanced Generation Collection
       - 661031 #Pokémon: Alternate Continuity Collection
       - 661026 #Pokémon: Diamond and Pearl Collection
+      - 386410 #Dragon Ball Collection
+      - 425164 #Dragon Ball Z Collection
+      - 620873 #Dragon Ball Super Collection
+
