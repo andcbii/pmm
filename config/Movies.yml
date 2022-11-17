@@ -1,11 +1,15 @@
 templates:
-  collection:
+  auto-collection:
     tmdb_collection_details: <<value>>
     collection_order: release
     minimum_items: 2
     collection_mode: hide
+  manual-collection:
+    collection_mode: hide_items 
 collections: 
-  Pokemon Collection:
+  Pokémon Collection:
+    template:
+      name: manual-collection
     tmdb_collection_details:
       - 34055 #Pokémon Collection
       - 661029 #Pokémon: XY Collection
@@ -15,11 +19,10 @@ collections:
       - 661026 #Pokémon: Diamond and Pearl Collection
     tmdb_movie:
       - 36897 #Pokémon: Mewtwo Returns (2001)
-      - 571891 #Pokemon the Movie: Mewtwo Strikes Back - Evolution
-    collection_mode: hide_items
+      - 571891 #Pokemon the Movie: Mewtwo Strikes Back - Evolution (2019)
 dynamic_collections:
   TMDb Collections:          # This name is the mapping name
-    template: collection
+    template: auto-collection
     type: tmdb_collection
     remove_suffix: "Collection"
     exclude:
