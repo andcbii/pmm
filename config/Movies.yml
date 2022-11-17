@@ -22,22 +22,26 @@ collections:
       - 571891 #Pokemon the Movie: Mewtwo Strikes Back - Evolution (2019)
   Dragon Ball Collection:
     template:
-      name: manual-collection
+      name: manual-collecion
+    sort_title: Dragon_Ball_1
     tmdb_collection_details:
       - 386410 #Dragon Ball Collection
   Dragon Ball Z Collection:
     template:
       name: manual-collection
+    sort_title: Dragon_Ball_2
     tmdb_collection_details:
       - 425164 #Dragon Ball Z Collection
   Dragon Ball Super Collection:
     template:
       name: manual-collection
+    sort_title: Dragon_Ball_3
     tmdb_collection_details:
       - 620873 #Dragon Ball Super Collection
   Dragon Ball Complete Collection:
     template:
       name: manual-collection
+    sort_title: Dragon_Ball_4
     tmdb_collection_details:
       - 386410 #Dragon Ball Collection
       - 425164 #Dragon Ball Z Collection
