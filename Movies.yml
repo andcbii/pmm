@@ -1,0 +1,42 @@
+templates:
+  collection:
+    tmdb_collection_details: <<value>>
+    collection_order: release
+    minimum_items: 2
+    collection_mode: hide
+#  Actor:
+#    actor: tmdb
+#    tmdb_person: <<person>>
+#    tmdb_actor_details: <<person>>
+#    sort_title: +_<<collection_name>>
+#    sync_mode: sync
+#    collection_order: release
+#    collection_mode: hide
+collections: 
+#  Bill Murray:
+#    template: {name:  Actor, person: 1532}
+#  Dwayne Johnson:
+#    template: {name:  Actor, person: 18918}
+  Pok\u00e9mon Collection:
+    tmdb_collection_details:
+      - 34055 #pokemon
+      - 661029 #pokemon
+      - 661028 #pokemon
+      - 661025 #pokemon
+      - 661031 #pokemon
+    tmdb_movie:
+      - 36897
+      - 571891
+    collection_mode: hide_items
+dynamic_collections:
+  TMDb Collections:          # This name is the mapping name
+    template: collection
+    type: tmdb_collection
+    remove_suffix: "Collection"
+    exclude:
+      - 34055 #pokemon
+      - 661029 #pokemon
+      - 661028 #pokemon
+      - 661025 #pokemon
+      - 661031 #pokemon
+      - 661026 #pokemon
