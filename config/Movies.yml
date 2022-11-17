@@ -25,6 +25,23 @@ collections:
       name: manual-collection
     tmdb_collection_details:
       - 386410 #Dragon Ball Collection
+  Dragon Ball Z Collection:
+    template:
+      name: manual-collection
+    tmdb_collection_details:
+      - 425164 #Dragon Ball Z Collection
+  Dragon Ball Super Collection:
+    template:
+      name: manual-collection
+    tmdb_collection_details:
+      - 620873 #Dragon Ball Super Collection
+  Dragon Ball Complete Collection:
+    template:
+      name: manual-collection
+    tmdb_collection_details:
+      - 386410 #Dragon Ball Collection
+      - 425164 #Dragon Ball Z Collection
+      - 620873 #Dragon Ball Super Collection
 dynamic_collections:
   TMDb Collections:          # This name is the mapping name
     template: auto-collection
