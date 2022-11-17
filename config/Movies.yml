@@ -7,14 +7,15 @@ templates:
 collections: 
   Pokemon Collection:
     tmdb_collection_details:
-      - 34055 #pokemon
-      - 661029 #pokemon
-      - 661028 #pokemon
-      - 661025 #pokemon
-      - 661031 #pokemon
+      - 34055 #Pokémon Collection
+      - 661029 #Pokémon: XY Collection
+      - 661028 #Pokémon: Best Wishes! Collection
+      - 661025 #Pokémon: Advanced Generation Collection
+      - 661031 #Pokémon: Alternate Continuity Collection
+      - 661026 #Pokémon: Diamond and Pearl Collection
     tmdb_movie:
-      - 36897
-      - 571891
+      - 36897 #Pokémon: Mewtwo Returns (2001)
+      - 571891 #Pokemon the Movie: Mewtwo Strikes Back - Evolution
     collection_mode: hide_items
 dynamic_collections:
   TMDb Collections:          # This name is the mapping name
@@ -22,9 +23,9 @@ dynamic_collections:
     type: tmdb_collection
     remove_suffix: "Collection"
     exclude:
-      - 34055 #pokemon
-      - 661029 #pokemon
-      - 661028 #pokemon
-      - 661025 #pokemon
-      - 661031 #pokemon
-      - 661026 #pokemon
+      - 34055 #Pokémon Collection
+      - 661029 #Pokémon: XY Collection
+      - 661028 #Pokémon: Best Wishes! Collection
+      - 661025 #Pokémon: Advanced Generation Collection
+      - 661031 #Pokémon: Alternate Continuity Collection
+      - 661026 #Pokémon: Diamond and Pearl Collection
