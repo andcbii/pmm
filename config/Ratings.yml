@@ -214,4 +214,8 @@ metadata:
     sort_title: Batman_2016
   The Batman:
     sort_title: Batman_2022
+  A Day in the Life of Donald Duck:
+    alt_title: A Day in the Life of Donald Duck
+    tmdb_show: 4231
+    content_rating: G
   run_again: true
