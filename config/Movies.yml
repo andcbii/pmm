@@ -79,6 +79,7 @@ collections:
   Pixar Short Films Collection:
     template:
       name: manual-collection
+    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1668782317/Plex%20-%20PMM%20images/pixar-short-films-collection-5223ed2f81276_vjp091.jpg
     tmdb_movie:
       - 13924 #The Adventures of André & Wally B. (1984)
       - 13925 #Luxo Jr. (1986)
