@@ -76,6 +76,13 @@ collections:
       - 382322 #Batman: The Killing Joke (2016)
       - 40662 #Batman: Under the Red Hood (2010)
       - 69735 #Batman: Year One (2011)
+  Pixar Short Films Collection:
+    template:
+      name: manual-collection
+    tmdb_movie:
+      - 24589 #Dug's Special Mission (2009)
+      - 72962 #George and A.J. (2009)
+      - 13932 #Jack-Jack Attack (2005)
 dynamic_collections:
   TMDb Collections:          # This name is the mapping name
     template: auto-collection
