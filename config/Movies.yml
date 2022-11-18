@@ -124,6 +124,44 @@ collections:
       name: manual-collection
     tmdb_collection_details:
       - 386162 #LEGO DC Comics Super Heroes Collection
+  Walt Disney Treasures - The Chronological Donald, Volume Two:
+    template:
+      name: manual-collection
+    tmdb_collection_details:
+      - 315597 #315597-walt-disney-treasures-the-chronological-donald-volume-two
+    tmdb_movie:
+      - 53458 #Bellboy Donald (1942)
+      - 67604 #The Village Smithy (1942)
+      - 55461 #Donald's Snow Fight (1942)
+      - 55371 #Donald's Garden (1942)
+      - 55395 #Donald's Gold Mine (1942)
+      - 55462 #Donald's Tire Trouble (1943)
+      - 57199 #The Flying Jalopy (1943)
+      - 54485 #Donald Gets Drafted (1942)
+      - 64706 #The Vanishing Private (1942)
+      - 64695 #Sky Trooper (1942)
+      - 33600 #Der Fuehrer's Face (1943)
+      - 56627 #Fall Out - Fall In (1943)
+      - 64702 #The Old Army Game (1943)
+      - 62598 #Home Defense (1943)
+      - 53620 #Commando Duck (1944)
+      - 67702 #Trombone Trouble (1944)
+      - 67598 #The Plastics Inventor (1944)
+      - 55407 #Donald's Off Day (1944)
+      - 54482 #Donald Duck and the Gorilla (1944)
+      - 53745 #Contrary Condor (1944)
+      - 56631 #The Eyes Have It (1945)
+      - 55354 #Donald's Crime (1945)
+      - 55541 #Duck Pimples (1945)
+      - 67143 #No Sail (1945)
+      - 53916 #Cured Duck (1945)
+      - 53491 #The Clock Watcher (1945)
+      - 67149 #Old Sequoia (1945)
+      - 55365 #Donald's Double Trouble (1946)
+      - 67712 #Wet Paint (1946)
+      - 55548 #Dumb Bell of the Yukon (1946)
+      - 54411 #Lighthouse Keeping (1946)
+      - 57235 #Frank Duck Brings 'Em Back Alive (1946)
     
 dynamic_collections:
   TMDb Collections:          # This name is the mapping name
