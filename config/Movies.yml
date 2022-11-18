@@ -170,6 +170,7 @@ collections:
       - 55548 #Dumb Bell of the Yukon (1946)
       - 54411 #Lighthouse Keeping (1946)
       - 57235 #Frank Duck Brings 'Em Back Alive (1946)
+      - 151417 #The Volunteer Worker (1940)
   The Simpsons Shorts Collection:
     template:
       name: manual-collection
