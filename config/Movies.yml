@@ -132,7 +132,7 @@ collections:
       name: manual-collection
     tmdb_collection_details:
       - 386162 #LEGO DC Comics Super Heroes Collection
-  Walt Disney Treasures - The Chronological Donald, Volume Two:
+  Walt Disney Treasures- The Chronological Donald, Volume Two:
     template:
       name: manual-collection
     tmdb_movie_details:
@@ -184,6 +184,42 @@ collections:
       - 877183 #The Simpsons in Plusaversary (2021)
       - 962659 #The Simpsons: When Billie Met Lisa (2022)
       - 1015602 #Welcome to the Club (2022)
+  Walt Disney Treasures- On the Front Lines :
+    template:
+      name: manual-collection
+    tmdb_movie_details:
+      - 327919 #Walt Disney Treasures: On the Front Lines (2004)
+    tmdb_movie:
+      - 54485 #Donald Gets Drafted (1942)
+      - 64697 #The Army Mascot (1942)
+      - 64706 #The Vanishing Private (1942)
+      - 64695 #Sky Trooper (1942)
+      - 64692 #Private Pluto (1943)
+      - 56627 #Fall Out - Fall In (1943)
+      - 64708 #Victory Vehicles (1943)
+      - 64702 #The Old Army Game (1943)
+      - 62598 #Home Defense (1943)
+      - 64662 #How to Be a Sailor (1944)
+      - 53620 #Commando Duck (1944)
+      - 64704 #The Thrifty Pig (1941)
+      - 64593 #7 Wise Dwarfs (1941)
+      - 64659 #Food Will Win the War (1942)
+      - 64663 #Out of the Frying Pan Into the Firing Line (1942)
+      - 64658 #Donald's Decision (1942)
+      - 64595 #All Together (1942)
+      - 64701 #The New Spirit (1942)
+      - 64703 #The Spirit of '43 (1943)
+      - 64707 #The Winged Scourge (1943)
+      - 64657 #Defense Against Invasion (1943)
+      - 64698 #The Grain That Built a Hemisphere (1943)
+      - 39089 #Cleanliness Brings Health (1945)
+      - 64705 #What Is Disease? (AKA The Unseen Enemy) (1945)
+      - 64691 #Planning For Good Eating (1946)*
+      - 33600 #Der Fuehrer's Face (1943)
+      - 44480 #Education for Death: The Making of the Nazi (1943)
+      - 64693 #Reason and Emotion (1943)
+      - 64648 #Chicken Little (1943)
+      - 22779 #Victory Through Air Power (1943)
 
 dynamic_collections:
   TMDb Collections:          # This name is the mapping name
