@@ -225,7 +225,7 @@ collections:
     template:
       name: manual-collection
     tmdb_movie_details:
-      - Ice Age #Gone Nutty (2002)
+      - 17963 Ice Age #Gone Nutty (2002)
     tmdb_movie:
       - 17963 #Gone Nutty
       - 46247 #No Time for Nuts
@@ -234,7 +234,28 @@ collections:
       - 98857 #Scrat's Continental Crack-Up - Part 2
       - 367326 #Cosmic Scrat-tastrophe
       - 421725 #Scrat: Spaced Out
-
+  Cars Toons:
+    template:
+      name: manual-collection
+    tmdb_show_details:
+      - 211877 #Cars Toons (2008) My guess is this will be deleted
+    tmdb_movie:
+      - 56553 #Rescue Squad Mater (2008)
+      - 140967 #Mater the Greater (2008)
+      - 39030 #El Materdor (2008)
+      - 24328 #Tokyo Mater (2008)
+      - 171536 #(U.F.M.) Unidentified Flying Mater (2009)
+      - 148605 #Monster Truck Mater (2010)
+      - 148607 #Heavy Metal Mater (2010)
+      - 148608 #Moon Mater (2010)
+      - 148606 #Mater Private Eye (2010)
+      - 145316 #Air Mater (2011)
+      - 141528 #Time Travel Mater (2012)
+      - 230767 #Hiccups (2013)
+      - 296159 #Bugged (2013)
+      - 296137 #Spinning (2013)
+      - 286189 #The Radiator Springs 500 ½ (2014)
+      
 dynamic_collections:
   TMDb Collections:          # This name is the mapping name
     template: auto-collection
