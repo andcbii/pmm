@@ -41,6 +41,7 @@ collections:
   Dragon Ball Complete Collection:
     template:
       name: manual-collection
+    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1668802950/Plex%20-%20PMM%20images/dragonball_xljkad.jpg
     sort_title: Dragon_Ball_4
     tmdb_collection:
       - 386410 #Dragon Ball Collection
