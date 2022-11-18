@@ -58,13 +58,20 @@ collections:
     sort_title: Batman_B_Animated
     tmdb_collection_details:
       - 334996 #Son of Batman Collection
-  Batman Animated Collection:
+  Superman / Batman (Animated) Collection:
     template:
       name: manual-collection
     sort_title: Batman_C_Animated
+    tmdb_collection_details:
+      - 290933 #Superman / Batman (Animated) Collection
+  Batman 80th Anniversary Collection:
+    template:
+      name: manual-collection
+    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1668795070/Plex%20-%20PMM%20images/Batman-80th-Anniversary-Collection_usl1u1.jpg
+    sort_title: Batman_D_Animated
     tmdb_collection:
       - 334996 #Son of Batman Collection
-      - 421904 #Batman (DC Universe Animated) Collection
+      - 290933 #Superman / Batman (Animated) Collection
     tmdb_movie:
       - 485942 #Batman Ninja (2018)
       - 581997 #Batman vs. Teenage Mutant Ninja Turtles (2019)
@@ -181,4 +188,5 @@ dynamic_collections:
       - 421904 #Batman (DC Universe Animated) Collection
       - 334996 #Son of Batman Collection
       - 386162 #LEGO DC Comics Super Heroes Collection
+      - 290933 #Superman / Batman (Animated) Collection
 
