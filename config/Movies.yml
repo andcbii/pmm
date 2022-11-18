@@ -57,11 +57,14 @@ collections:
       name: manual-collection
     sort_title: Batman_B_Animated
     tmdb_collection_details:
-      - 334996 
+      - 334996 #Son of Batman Collection
   Batman Animated Collection:
     template:
       name: manual-collection
     sort_title: Batman_C_Animated
+    tmdb_collection:
+      - 334996 #Son of Batman Collection
+      - 421904 #Batman (DC Universe Animated) Collection
     tmdb_movie:
       - 485942 #Batman Ninja (2018)
       - 581997 #Batman vs. Teenage Mutant Ninja Turtles (2019)
