@@ -237,8 +237,7 @@ collections:
   Cars Toons:
     template:
       name: manual-collection
-    tmdb_show_details:
-      - 211877 #Cars Toons (2008) My guess is this will be deleted
+    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1668802710/Plex%20-%20PMM%20images/carrs-toons_mdr7gc.jpg
     tmdb_movie:
       - 56553 #Rescue Squad Mater (2008)
       - 140967 #Mater the Greater (2008)
