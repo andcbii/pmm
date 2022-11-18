@@ -170,7 +170,21 @@ collections:
       - 55548 #Dumb Bell of the Yukon (1946)
       - 54411 #Lighthouse Keeping (1946)
       - 57235 #Frank Duck Brings 'Em Back Alive (1946)
-    
+  The Simpsons Shorts Collection:
+    template:
+      name: manual-collection
+    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1668798305/Plex%20-%20PMM%20images/The-Simpsons_h78hal.jpg
+    tmdb_movie:
+      - 116440 #Maggie Simpson in The Longest Daycare (2012)
+      - 673595 #Maggie Simpson in Playdate with Destiny (2020)
+      - 1045177 #The Simpsons | Balenciag (2021)
+#      -  Te Deseo Lo Mejor
+      - 825597 #Maggie Simpson in The Force Awakens from Its Nap (2021)
+      - 846214 #The Simpsons: The Good, the Bart, and the Loki (2021)
+      - 877183 #The Simpsons in Plusaversary (2021)
+      - 962659 #The Simpsons: When Billie Met Lisa (2022)
+      - 1015602 #Welcome to the Club (2022)
+
 dynamic_collections:
   TMDb Collections:          # This name is the mapping name
     template: auto-collection
