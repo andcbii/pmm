@@ -127,8 +127,8 @@ collections:
   Walt Disney Treasures - The Chronological Donald, Volume Two:
     template:
       name: manual-collection
-    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1668787191/Plex%20-%20PMM%20images/Walt-Disney-Treasures-Donald-Volume-2_q0bjyz.jpg
-    summary: "The adventures of the world''s favorite fiery-tempered duck continue as we follow his solo-starring efforts from 1942 through 1946. This period was filled with an abundance of comic exploits as Donald shows his huge audience what he''s made of, short fuse and all. Among Donald''s featured escapades is the Academy Award(R)-nominated Best Short, Donald''s Crime, from 1945. Also showcased is an interview with the current-day voice of Donald Duck, Tony Anselmo, and a profile of the legendary comic book artist Carl Barks -- including a look at the not-often-seen work he did in Disney''s animation department."
+    tmdb_movie_details:
+      - 315597 #Walt Disney Treasures - The Chronological Donald, Volume Two (2005)
     tmdb_movie:
       - 53458 #Bellboy Donald (1942)
       - 67604 #The Village Smithy (1942)
