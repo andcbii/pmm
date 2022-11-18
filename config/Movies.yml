@@ -119,6 +119,12 @@ collections:
       - 433471 #Lou (2017)
       - 483396 #Miss Fritter's Racing Skoool (2017)
       - 514754 #Bao (2018)
+  LEGO DC Comics Super Heroes Collection:
+    template:
+      name: manual-collection
+    tmdb_collection_details:
+      - 386162 #LEGO DC Comics Super Heroes Collection
+    
 dynamic_collections:
   TMDb Collections:          # This name is the mapping name
     template: auto-collection
@@ -136,4 +142,5 @@ dynamic_collections:
       - 620873 #Dragon Ball Super Collection
       - 421904 #Batman (DC Universe Animated) Collection
       - 334996 #Son of Batman Collection
+      - 386162 #LEGO DC Comics Super Heroes Collection
 
