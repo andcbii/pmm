@@ -185,7 +185,7 @@ collections:
       - 877183 #The Simpsons in Plusaversary (2021)
       - 962659 #The Simpsons: When Billie Met Lisa (2022)
       - 1015602 #Welcome to the Club (2022)
-  Walt Disney Treasures- On the Front Lines :
+  Walt Disney Treasures- On the Front Lines:
     template:
       name: manual-collection
     tmdb_movie_details:
@@ -221,6 +221,19 @@ collections:
       - 64693 #Reason and Emotion (1943)
       - 64648 #Chicken Little (1943)
       - 22779 #Victory Through Air Power (1943)
+  Ice Age Shorts:
+    template:
+      name: manual-collection
+    tmdb_movie_details:
+      - Ice Age #Gone Nutty (2002)
+    tmdb_movie:
+      - 17963 #Gone Nutty
+      - 46247 #No Time for Nuts
+      - 21044 #Surviving Sid
+      - 55692 #Scrat's Continental Crack-Up
+      - 98857 #Scrat's Continental Crack-Up - Part 2
+      - 367326 #Cosmic Scrat-tastrophe
+      - 421725 #Scrat: Spaced Out
 
 dynamic_collections:
   TMDb Collections:          # This name is the mapping name
