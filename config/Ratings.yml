@@ -219,6 +219,6 @@ metadata:
     tmdb_show: 4231
     content_rating: G
   'Lego Star Wars: The Empire Strikes Out':
-    originally_available: 2017-07-08
+    added_at: 2017-07-08
   
   run_again: true
