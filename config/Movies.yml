@@ -172,6 +172,9 @@ collections:
       - 54411 #Lighthouse Keeping (1946)
       - 57235 #Frank Duck Brings 'Em Back Alive (1946)
       - 151417 #The Volunteer Worker (1940)
+    plex_search:
+      all:
+        title: A Day in the Life of Donald Duck
   The Simpsons Shorts Collection:
     template:
       name: manual-collection
