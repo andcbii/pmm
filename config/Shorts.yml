@@ -87,7 +87,7 @@ collections:
     plex_search:
       all:
         title: A Day in the Life of Donald Duck
-  The Simpsons Shorts Collection:
+  The Simpsons Collection:
     template:
       name: manual-shorts-collection
     url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1668798305/Plex%20-%20PMM%20images/The-Simpsons_h78hal.jpg
