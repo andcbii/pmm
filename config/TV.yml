@@ -1,0 +1,77 @@
+manual-collection:
+  collection_mode: hide
+  minimum_items: 1
+  collection_order: release
+collections:
+  Animaniacs:
+    tmdb_show:
+      - 82 #Animaniacs (1993)
+      - 107124 #Animaniacs (2020)
+  Batman 1966:
+    tmdb_show:
+      - 2287 #Batman (1966)
+  Batman (DC Universe Animated) Collection:
+    tmdb_show:
+      - 2098 #Batman: The Animated Series (1992)
+      - 513 #Batman Beyond (1999)
+  Battlestar Galactica (Reboot):
+    tmdb_show:
+      - 71365 #Battlestar Galactica (2003)
+      - 1972 #Battlestar Galactica (2004)
+  Clarissa:
+    tmdb_show:
+      - 249 #Clarissa Explains It All (1991)
+  Cowboy Bebop:
+    tmdb_show:
+      - 30991 #Cowboy Bebop (1998)
+  Daria:
+    tmdb_show:
+      - 2131 #Daria (1997)
+  Deadwood:
+    tmdb_show:
+  Dragon Ball Collection:
+    tmdb_show:
+  Dragon Ball Z Movies Collection:
+    tmdb_show:
+  Dragon Ball Super Collection:
+    tmdb_show:
+  Dragon Ball All:
+    tmdb_show:
+  DuckTales:
+    tmdb_show:
+  Evil Dead Collection:
+    tmdb_show:
+  Friends:
+    tmdb_show:  
+  G.I. Joe Collection:
+    tmdb_show:  
+  Lion Guard:
+    tmdb_show:  
+  Miraculous World:
+    tmdb_show:
+  Parks and Recreation:
+    tmdb_show:
+  Power Rangers:
+    tmdb_show:
+  Psych Collection:
+    tmdb_show:
+  The Simpsons:
+    tmdb_show:
+  'Star Trek: The Original Series Collection':
+    tmdb_show:
+  'Star Trek: The Next Generation Collection':
+    tmdb_show:
+  Star Trek All:
+    tmdb_show:
+  'TMNT 2012'
+    tmdb_show:
+  Transformers 1984:
+    tmdb_show:
+  Zoey's Extraordinary:
+    tmdb_show:
+  
+  
+  
+  
+  
+  
