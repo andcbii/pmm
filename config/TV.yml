@@ -29,49 +29,80 @@ collections:
       - 2131 #Daria (1997)
   Deadwood:
     tmdb_show:
+      - 1406 #Deadwood (2004)
   Dragon Ball Collection:
     tmdb_show:
-  Dragon Ball Z Movies Collection:
+      - 12609 #Dragon Ball (1986)
+  Dragon Ball Z Collection:
     tmdb_show:
+      - 12971 #Dragon Ball Z (1989)
   Dragon Ball Super Collection:
     tmdb_show:
-  Dragon Ball All:
+      - 62715 #Dragon Ball Super (2015)
+  Dragon Ball Complete Collection:
     tmdb_show:
+      - 12609 #Dragon Ball (1986)
+      - 12971 #Dragon Ball Z (1989)
+      - 61709 #Dragon Ball Z Kai (2009)
+      - 62715 #Dragon Ball Super (2015)
+      - 12697 #Dragon Ball GT (1996)
   DuckTales:
     tmdb_show:
-  Evil Dead Collection:
+      - 720 #DuckTales (1987)
+  Evil Dead:
     tmdb_show:
+      - 62264 #Ash vs Evil Dead (2015)
   Friends:
-    tmdb_show:  
+    tmdb_show: 
+      - 1668 #Friends (1994)
   G.I. Joe Collection:
-    tmdb_show:  
+    tmdb_show:
+      - 29200 #G.I. Joe: A Real American Hero (1983)
   Lion Guard:
-    tmdb_show:  
+    tmdb_show:
+      - 64752 #The Lion Guard (2016)
   Miraculous World:
     tmdb_show:
+      - 65334 #Miraculous: Tales of Ladybug & Cat Noir (2015)
   Parks and Recreation:
     tmdb_show:
+      - 8592 #Parks and Recreation (2009)
   Power Rangers:
     tmdb_show:
-  Psych Collection:
+      - 2328 #Power Rangers (1993)
+  Psych:
     tmdb_show:
+      - 1447 #Psych (2006)
   The Simpsons:
     tmdb_show:
-  'Star Trek: The Original Series Collection':
+      - 456 #The Simpsons (1989)
+  'Star Trek: The Original Series':
     tmdb_show:
+      - 253 #Star Trek (1966)
+      - 1992 #Star Trek: The Animated Series (1973)
   'Star Trek: The Next Generation Collection':
     tmdb_show:
-  Star Trek All:
+      - 655 #Star Trek: The Next Generation (1987)
+  Star Trek:
     tmdb_show:
+      - 253 #Star Trek (1966)
+      - 1992 #Star Trek: The Animated Series (1973)
+      - 655 #Star Trek: The Next Generation (1987)
+      - 580 #Star Trek: Deep Space Nine (1993)
+      - 1855 #Star Trek: Voyager (1995)
+      - 314 #Star Trek: Enterprise (2001)
+      - 67198 #Star Trek: Discovery (2017)
+      - 82491 #Star Trek: Short Treks (2018)
+      - 85949 #Star Trek: Picard (2020)
+      - 85948 #Star Trek: Lower Decks (2020)
+      - 106393 #Star Trek: Prodigy (2021)
+      - 103516 #Star Trek: Strange New Worlds (2022)
   'TMNT 2012'
     tmdb_show:
+      - 51817 #Teenage Mutant Ninja Turtles (2012)
   Transformers 1984:
     tmdb_show:
+      - 4269 #The Transformers (1984)
   Zoey's Extraordinary:
     tmdb_show:
-  
-  
-  
-  
-  
-  
+      - 95941 #Zoey's Extraordinary Playlist (2020)
