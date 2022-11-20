@@ -97,7 +97,7 @@ collections:
       - 85948 #Star Trek: Lower Decks (2020)
       - 106393 #Star Trek: Prodigy (2021)
       - 103516 #Star Trek: Strange New Worlds (2022)
-  TMNT 2012:
+  'TMNT-2012':
     tmdb_show:
       - 51817 #Teenage Mutant Ninja Turtles (2012)
   Transformers 1984:
