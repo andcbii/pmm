@@ -1,1 +1,207 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@andcbii 
+andcbii
+/
+pmm
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+pmm/config/Movies.yml
+@andcbii
+andcbii add A Day in the Life of Donald Duck
+Latest commit ec135dd 32 minutes ago
+ History
+ 1 contributor
+281 lines (279 sloc)  10.6 KB
 
+templates:
+  auto-collection:
+    tmdb_collection_details: <<value>>
+    collection_order: release
+    minimum_items: 2
+    collection_mode: hide
+  manual-collection:
+    collection_mode: hide_items 
+collections: 
+  Pixar Short Films Collection:
+    template:
+      name: manual-collection
+    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1668782317/Plex%20-%20PMM%20images/pixar-short-films-collection-5223ed2f81276_vjp091.jpg
+    tmdb_movie:
+      - 13924 #The Adventures of André & Wally B. (1984)
+      - 13925 #Luxo Jr. (1986)
+      - 13926 #Red's Dream (1987)
+      - 13927 #Tin Toy (1988)
+      - 13928 #Knick Knack (1989)
+      - 13929 #Geri's Game (1997)
+      - 13930 #For the Birds (2000)
+      - 13931 #Mike's New Car (2002)
+      - 13062 #Boundin' (2003)
+      - 13932 #Jack-Jack Attack (2005)
+      - 13933 #One Man Band (2005)
+      - 13934 #Mater and the Ghostlight (2006)
+      - 13060 #Lifted (2006)
+      - 13061 #Your Friend the Rat (2007)
+      - 13042 #Presto (2008)
+      - 13413 #BURN-E (2008)
+      - 24480 #Partly Cloudy (2009)
+      - 24589 #Dug's Special Mission (2009)
+      - 72962 #George and A.J. (2009)
+      - 40619 #Day & Night (2010)
+      - 77887 #Hawaiian Vacation (2011)
+      - 145316 #Air Mater (2011)
+      - 82424 #Small Fry (2011)
+      - 141528 #Time Travel Mater (2012)
+      - 83564 #La Luna (2012)
+      - 130925 #Partysaurus Rex (2012)
+      - 141423 #The Legend of Mor'du (2012)
+      - 200481 #The Blue Umbrella (2013)
+      - 258152 #Party Central (2014)
+      - 286189 #The Radiator Springs 500½ (2014)
+      - 286192 #Lava (2014)
+      - 345637 #Sanjay's Super Team (2015)
+      - 355338 #Riley's First Date? (2015)
+      - 399106 #Piper (2016)
+      - 427004 #Marine Life Interviews (2017)
+      - 433471 #Lou (2017)
+      - 483396 #Miss Fritter's Racing Skoool (2017)
+      - 514754 #Bao (2018)
+  Walt Disney Treasures- The Chronological Donald, Volume Two:
+    template:
+      name: manual-collection
+    tmdb_movie_details:
+      - 315597 #Walt Disney Treasures - The Chronological Donald, Volume Two (2005)
+    tmdb_movie:
+      - 53458 #Bellboy Donald (1942)
+      - 67604 #The Village Smithy (1942)
+      - 55461 #Donald's Snow Fight (1942)
+      - 55371 #Donald's Garden (1942)
+      - 55395 #Donald's Gold Mine (1942)
+      - 55462 #Donald's Tire Trouble (1943)
+      - 57199 #The Flying Jalopy (1943)
+      - 54485 #Donald Gets Drafted (1942)
+      - 64706 #The Vanishing Private (1942)
+      - 64695 #Sky Trooper (1942)
+      - 33600 #Der Fuehrer's Face (1943)
+      - 56627 #Fall Out - Fall In (1943)
+      - 64702 #The Old Army Game (1943)
+      - 62598 #Home Defense (1943)
+      - 53620 #Commando Duck (1944)
+      - 67702 #Trombone Trouble (1944)
+      - 67598 #The Plastics Inventor (1944)
+      - 55407 #Donald's Off Day (1944)
+      - 54482 #Donald Duck and the Gorilla (1944)
+      - 53745 #Contrary Condor (1944)
+      - 56631 #The Eyes Have It (1945)
+      - 55354 #Donald's Crime (1945)
+      - 55541 #Duck Pimples (1945)
+      - 67143 #No Sail (1945)
+      - 53916 #Cured Duck (1945)
+      - 53491 #The Clock Watcher (1945)
+      - 67149 #Old Sequoia (1945)
+      - 55365 #Donald's Double Trouble (1946)
+      - 67712 #Wet Paint (1946)
+      - 55548 #Dumb Bell of the Yukon (1946)
+      - 54411 #Lighthouse Keeping (1946)
+      - 57235 #Frank Duck Brings 'Em Back Alive (1946)
+      - 151417 #The Volunteer Worker (1940)
+    plex_search:
+      all:
+        title: A Day in the Life of Donald Duck
+  The Simpsons Shorts Collection:
+    template:
+      name: manual-collection
+    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1668798305/Plex%20-%20PMM%20images/The-Simpsons_h78hal.jpg
+    tmdb_movie:
+      - 116440 #Maggie Simpson in The Longest Daycare (2012)
+      - 673595 #Maggie Simpson in Playdate with Destiny (2020)
+      - 1045177 #The Simpsons | Balenciag (2021)
+#      -  Te Deseo Lo Mejor
+      - 825597 #Maggie Simpson in The Force Awakens from Its Nap (2021)
+      - 846214 #The Simpsons: The Good, the Bart, and the Loki (2021)
+      - 877183 #The Simpsons in Plusaversary (2021)
+      - 962659 #The Simpsons: When Billie Met Lisa (2022)
+      - 1015602 #Welcome to the Club (2022)
+  Walt Disney Treasures- On the Front Lines:
+    template:
+      name: manual-collection
+    tmdb_movie_details:
+      - 327919 #Walt Disney Treasures: On the Front Lines (2004)
+    tmdb_movie:
+      - 54485 #Donald Gets Drafted (1942)
+      - 64697 #The Army Mascot (1942)
+      - 64706 #The Vanishing Private (1942)
+      - 64695 #Sky Trooper (1942)
+      - 64692 #Private Pluto (1943)
+      - 56627 #Fall Out - Fall In (1943)
+      - 64708 #Victory Vehicles (1943)
+      - 64702 #The Old Army Game (1943)
+      - 62598 #Home Defense (1943)
+      - 64662 #How to Be a Sailor (1944)
+      - 53620 #Commando Duck (1944)
+      - 64704 #The Thrifty Pig (1941)
+      - 64593 #7 Wise Dwarfs (1941)
+      - 64659 #Food Will Win the War (1942)
+      - 64663 #Out of the Frying Pan Into the Firing Line (1942)
+      - 64658 #Donald's Decision (1942)
+      - 64595 #All Together (1942)
+      - 64701 #The New Spirit (1942)
+      - 64703 #The Spirit of '43 (1943)
+      - 64707 #The Winged Scourge (1943)
+      - 64657 #Defense Against Invasion (1943)
+      - 64698 #The Grain That Built a Hemisphere (1943)
+      - 39089 #Cleanliness Brings Health (1945)
+      - 64705 #What Is Disease? (AKA The Unseen Enemy) (1945)
+      - 64691 #Planning For Good Eating (1946)*
+      - 33600 #Der Fuehrer's Face (1943)
+      - 44480 #Education for Death: The Making of the Nazi (1943)
+      - 64693 #Reason and Emotion (1943)
+      - 64648 #Chicken Little (1943)
+      - 22779 #Victory Through Air Power (1943)
+  Ice Age Shorts:
+    template:
+      name: manual-collection
+    tmdb_movie_details:
+      - 17963 Ice Age #Gone Nutty (2002)
+    tmdb_movie:
+      - 17963 #Gone Nutty
+      - 46247 #No Time for Nuts
+      - 21044 #Surviving Sid
+      - 55692 #Scrat's Continental Crack-Up
+      - 98857 #Scrat's Continental Crack-Up - Part 2
+      - 367326 #Cosmic Scrat-tastrophe
+      - 421725 #Scrat: Spaced Out
+  Cars Toons:
+    template:
+      name: manual-collection
+    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1668802710/Plex%20-%20PMM%20images/carrs-toons_mdr7gc.jpg
+    tmdb_movie:
+      - 56553 #Rescue Squad Mater (2008)
+      - 140967 #Mater the Greater (2008)
+      - 39030 #El Materdor (2008)
+      - 24328 #Tokyo Mater (2008)
+      - 171536 #(U.F.M.) Unidentified Flying Mater (2009)
+      - 148605 #Monster Truck Mater (2010)
+      - 148607 #Heavy Metal Mater (2010)
+      - 148608 #Moon Mater (2010)
+      - 148606 #Mater Private Eye (2010)
+      - 145316 #Air Mater (2011)
+      - 141528 #Time Travel Mater (2012)
+      - 230767 #Hiccups (2013)
+      - 296159 #Bugged (2013)
+      - 296137 #Spinning (2013)
+      - 286189 #The Radiator Springs 500 ½ (2014)
