@@ -255,7 +255,14 @@ collections:
       - 296159 #Bugged (2013)
       - 296137 #Spinning (2013)
       - 286189 #The Radiator Springs 500 ½ (2014)
-      
+  DC Animated Universe:
+    template:
+      name: manual-collection
+    trakt_list:
+      - https://trakt.tv/users/donxy/lists/dc-animated-movie-universe
+    sync_mode: sync
+    collection_order: custom
+
 dynamic_collections:
   TMDb Collections:          # This name is the mapping name
     template: auto-collection
