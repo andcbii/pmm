@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@andcbii 
-andcbii
-/
-pmm
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-pmm/config/Movies.yml
-@andcbii
-andcbii add A Day in the Life of Donald Duck
-Latest commit ec135dd 32 minutes ago
- History
- 1 contributor
-281 lines (279 sloc)  10.6 KB
-
 templates:
   auto-collection:
     tmdb_collection_details: <<value>>
