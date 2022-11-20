@@ -1,15 +1,10 @@
 templates:
-  auto-collection:
-    tmdb_collection_details: <<value>>
-    collection_order: release
-    minimum_items: 2
-    collection_mode: hide
-  manual-collection:
+  manual-shorts-collection:
     collection_mode: hide_items 
 collections: 
   Pixar Short Films Collection:
     template:
-      name: manual-collection
+      name: manual-shorts-collection
     url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1668782317/Plex%20-%20PMM%20images/pixar-short-films-collection-5223ed2f81276_vjp091.jpg
     tmdb_movie:
       - 13924 #The Adventures of André & Wally B. (1984)
@@ -52,7 +47,7 @@ collections:
       - 514754 #Bao (2018)
   Walt Disney Treasures- The Chronological Donald, Volume Two:
     template:
-      name: manual-collection
+      name: manual-shorts-collection
     tmdb_movie_details:
       - 315597 #Walt Disney Treasures - The Chronological Donald, Volume Two (2005)
     tmdb_movie:
@@ -94,7 +89,7 @@ collections:
         title: A Day in the Life of Donald Duck
   The Simpsons Shorts Collection:
     template:
-      name: manual-collection
+      name: manual-shorts-collection
     url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1668798305/Plex%20-%20PMM%20images/The-Simpsons_h78hal.jpg
     tmdb_movie:
       - 116440 #Maggie Simpson in The Longest Daycare (2012)
@@ -108,7 +103,7 @@ collections:
       - 1015602 #Welcome to the Club (2022)
   Walt Disney Treasures- On the Front Lines:
     template:
-      name: manual-collection
+      name: manual-shorts-collection
     tmdb_movie_details:
       - 327919 #Walt Disney Treasures: On the Front Lines (2004)
     tmdb_movie:
@@ -144,7 +139,7 @@ collections:
       - 22779 #Victory Through Air Power (1943)
   Ice Age Shorts:
     template:
-      name: manual-collection
+      name: manual-shorts-collection
     tmdb_movie_details:
       - 17963 Ice Age #Gone Nutty (2002)
     tmdb_movie:
@@ -157,7 +152,7 @@ collections:
       - 421725 #Scrat: Spaced Out
   Cars Toons:
     template:
-      name: manual-collection
+      name: manual-shorts-collection
     url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1668802710/Plex%20-%20PMM%20images/carrs-toons_mdr7gc.jpg
     tmdb_movie:
       - 56553 #Rescue Squad Mater (2008)
