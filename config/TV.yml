@@ -1,45 +1,70 @@
-manual-collection:
-  collection_mode: hide
-  minimum_items: 1
-  collection_order: release
+templates:
+  TV-collection:
+    collection_mode: hide
+    minimum_items: 1
+    collection_order: release
 collections:
   Animaniacs:
+    template:
+      name: TV-collection
     tmdb_show:
       - 82 #Animaniacs (1993)
       - 107124 #Animaniacs (2020)
   Batman 1966:
+    template:
+      name: TV-collection
     tmdb_show:
       - 2287 #Batman (1966)
   Batman (DC Universe Animated) Collection:
+    template:
+      name: TV-collection
     tmdb_show:
       - 2098 #Batman: The Animated Series (1992)
       - 513 #Batman Beyond (1999)
   Battlestar Galactica (Reboot):
+    template:
+      name: TV-collection
     tmdb_show:
       - 71365 #Battlestar Galactica (2003)
       - 1972 #Battlestar Galactica (2004)
   Clarissa:
+    template:
+      name: TV-collection
     tmdb_show:
       - 249 #Clarissa Explains It All (1991)
   Cowboy Bebop:
+    template:
+      name: TV-collection
     tmdb_show:
       - 30991 #Cowboy Bebop (1998)
   Daria:
+    template:
+      name: TV-collection
     tmdb_show:
       - 2131 #Daria (1997)
   Deadwood:
+    template:
+      name: TV-collection
     tmdb_show:
       - 1406 #Deadwood (2004)
   Dragon Ball Collection:
+    template:
+      name: TV-collection
     tmdb_show:
       - 12609 #Dragon Ball (1986)
   Dragon Ball Z Collection:
+    template:
+      name: TV-collection
     tmdb_show:
       - 12971 #Dragon Ball Z (1989)
   Dragon Ball Super Collection:
+    template:
+      name: TV-collection
     tmdb_show:
       - 62715 #Dragon Ball Super (2015)
   Dragon Ball Complete Collection:
+    template:
+      name: TV-collection
     tmdb_show:
       - 12609 #Dragon Ball (1986)
       - 12971 #Dragon Ball Z (1989)
@@ -47,43 +72,68 @@ collections:
       - 62715 #Dragon Ball Super (2015)
       - 12697 #Dragon Ball GT (1996)
   DuckTales:
+    template:
+      name: TV-collection
     tmdb_show:
       - 720 #DuckTales (1987)
   Evil Dead:
+  
     tmdb_show:
       - 62264 #Ash vs Evil Dead (2015)
   Friends:
+    template:
+      name: TV-collection
     tmdb_show: 
       - 1668 #Friends (1994)
   G.I. Joe Collection:
+    template:
+      name: TV-collection
     tmdb_show:
       - 29200 #G.I. Joe: A Real American Hero (1983)
   Lion Guard:
+    template:
+      name: TV-collection
     tmdb_show:
       - 64752 #The Lion Guard (2016)
   Miraculous World:
+    template:
+      name: TV-collection
     tmdb_show:
       - 65334 #Miraculous: Tales of Ladybug & Cat Noir (2015)
   Parks and Recreation:
+    template:
+      name: TV-collection
     tmdb_show:
       - 8592 #Parks and Recreation (2009)
   Power Rangers:
+    template:
+      name: TV-collection
     tmdb_show:
       - 2328 #Power Rangers (1993)
   Psych:
+    template:
+      name: TV-collection
     tmdb_show:
       - 1447 #Psych (2006)
   The Simpsons:
+    template:
+      name: TV-collection
     tmdb_show:
       - 456 #The Simpsons (1989)
   'Star Trek: The Original Series':
+    template:
+      name: TV-collection
     tmdb_show:
       - 253 #Star Trek (1966)
       - 1992 #Star Trek: The Animated Series (1973)
   'Star Trek: The Next Generation Collection':
+    template:
+      name: TV-collection
     tmdb_show:
       - 655 #Star Trek: The Next Generation (1987)
   Star Trek:
+    template:
+      name: TV-collection
     tmdb_show:
       - 253 #Star Trek (1966)
       - 1992 #Star Trek: The Animated Series (1973)
@@ -98,11 +148,17 @@ collections:
       - 106393 #Star Trek: Prodigy (2021)
       - 103516 #Star Trek: Strange New Worlds (2022)
   'TMNT-2012':
+    template:
+      name: TV-collection
     tmdb_show:
       - 51817 #Teenage Mutant Ninja Turtles (2012)
   Transformers 1984:
+    template:
+      name: TV-collection
     tmdb_show:
       - 4269 #The Transformers (1984)
   Zoey's Extraordinary:
+    template:
+      name: TV-collection
     tmdb_show:
       - 95941 #Zoey's Extraordinary Playlist (2020)
