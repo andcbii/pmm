@@ -85,7 +85,7 @@ collections:
       - 382322 #Batman: The Killing Joke (2016)
       - 40662 #Batman: Under the Red Hood (2010)
       - 69735 #Batman: Year One (2011)
-    LEGO DC Comics Super Heroes Collection:
+  LEGO DC Comics Super Heroes Collection:
     template:
       name: manual-collection
     tmdb_collection_details:
