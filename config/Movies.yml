@@ -119,7 +119,7 @@ collections:
     template:
       name: manual-collection
     tmdb_movie_details:
-      - 720 #DuckTales (1987)
+      - 10837 #DuckTales: The Movie - Treasure of the Lost Lamp (1990)
   Friends:
     template:
       name: manual-collection
