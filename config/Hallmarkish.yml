@@ -1,1 +1,12 @@
-
+templates:
+  Hallmarkish:
+    tmdb_collection_details: <<value>>
+    collection_order: release
+    minimum_items: 2
+    collection_mode: hide
+    
+dynamic_collections:
+  TMDb Collections:          # This name is the mapping name
+    template: Hallmarkish
+    type: tmdb_collection
+    remove_suffix: "Collection"
