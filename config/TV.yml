@@ -50,21 +50,26 @@ collections:
   Dragon Ball Collection:
     template:
       name: TV-collection
+    sort_title: Dragon_Ball_1
     tmdb_show:
       - 12609 #Dragon Ball (1986)
   Dragon Ball Z Collection:
     template:
       name: TV-collection
+    sort_title: Dragon_Ball_2
     tmdb_show:
       - 12971 #Dragon Ball Z (1989)
   Dragon Ball Super Collection:
     template:
       name: TV-collection
+    sort_title: Dragon_Ball_3
     tmdb_show:
       - 62715 #Dragon Ball Super (2015)
   Dragon Ball Complete Collection:
     template:
       name: TV-collection
+    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1668802950/Plex%20-%20PMM%20images/dragonball_xljkad.jpg
+    sort_title: Dragon_Ball_4
     tmdb_show:
       - 12609 #Dragon Ball (1986)
       - 12971 #Dragon Ball Z (1989)
@@ -123,17 +128,20 @@ collections:
   'Star Trek: The Original Series':
     template:
       name: TV-collection
+    sort_title: Star_Trek_1966
     tmdb_show:
       - 253 #Star Trek (1966)
       - 1992 #Star Trek: The Animated Series (1973)
   'Star Trek: The Next Generation':
     template:
       name: TV-collection
+    sort_title: Star_Trek_1987
     tmdb_show:
       - 655 #Star Trek: The Next Generation (1987)
   Star Trek:
     template:
       name: TV-collection
+    sort_title: Star_Trek_9999
     tmdb_show:
       - 253 #Star Trek (1966)
       - 1992 #Star Trek: The Animated Series (1973)
