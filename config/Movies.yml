@@ -90,6 +90,13 @@ collections:
       name: manual-collection
     tmdb_collection_details:
       - 386162 #LEGO DC Comics Super Heroes Collection
+  Animaniacs:
+    template:
+      name: manual-collection
+    tmdb_movie_details:
+      - 73901 #Animaniacs: Wakko's Wish (1999)
+    tmdb_movie:
+      - 73901 #Animaniacs: Wakko's Wish (1999)
 
 dynamic_collections:
   TMDb Collections:          # This name is the mapping name
