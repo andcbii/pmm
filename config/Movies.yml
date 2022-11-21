@@ -95,14 +95,77 @@ collections:
       name: manual-collection
     tmdb_movie_details:
       - 73901 #Animaniacs: Wakko's Wish (1999)
-    tmdb_movie:
-      - 73901 #Animaniacs: Wakko's Wish (1999)
   Batman 1966:
     template:
       name: manual-collection
     tmdb_movie_details:
       - 2661 #Batman (1966)
-
+  Clarissa:
+    template:
+      name: manual-collection
+    tmdb_movie_details:
+      - 395957 #Clarissa (1995)
+  Cowboy Bebop:
+    template:
+      name: manual-collection
+    tmdb_movie_details:
+      - 11299 #Cowboy Bebop: The Movie (2001)
+  Deadwood:
+    template:
+      name: manual-collection
+    tmdb_movie_details:
+      - 538225 #Deadwood: The Movie (2019)
+  DuckTales:
+    template:
+      name: manual-collection
+    tmdb_movie_details:
+      - 720 #DuckTales (1987)
+  Friends:
+    template:
+      name: manual-collection
+    tmdb_movie_details:
+      - 691179 #Friends: The Reunion (2021)
+  G.I. Joe Collection:
+    template:
+      name: manual-collection
+    tmdb_movie_details:
+      - 17421 #G.I. Joe: The Movie (1987)
+  Lion Guard:
+    template:
+      name: manual-collection
+    tmdb_movie_details:
+      - 359983 #The Lion Guard: Return of the Roar (2015)
+  Parks and Recreation:
+    template:
+      name: manual-collection
+    tmdb_movie_details:
+      - 696507 #A Parks and Recreation Special (2020)
+  Power Rangers:
+    template:
+      name: manual-collection
+    tmdb_movie_details:
+      - 9070 #Mighty Morphin Power Rangers: The Movie (1995)
+  The Simpsons:
+    template:
+      name: manual-collection
+    tmdb_movie_details:
+      - 35 #The Simpsons Movie (2007)
+  TMNT-2012:
+    template:
+      name: manual-collection
+    tmdb_movie_details:
+      - 366861 #Half-Shell Heroes: Blast to the Past (2015)
+  Transformers 1984:
+    template:
+      name: manual-collection
+    tmdb_movie_details:
+      - 1857 #The Transformers: The Movie (1986)
+  Zoey's Extraordinary:
+    template:
+      name: manual-collection
+    tmdb_movie_details:
+      - 872130 #Zoey's Extraordinary Christmas (2021)
+      
 dynamic_collections:
   TMDb Collections:          # This name is the mapping name
     template: auto-collection
