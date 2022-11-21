@@ -97,6 +97,11 @@ collections:
       - 73901 #Animaniacs: Wakko's Wish (1999)
     tmdb_movie:
       - 73901 #Animaniacs: Wakko's Wish (1999)
+  Batman 1966:
+    template:
+      name: manual-collection
+    tmdb_movie_details:
+      - 2661 #Batman (1966)
 
 dynamic_collections:
   TMDb Collections:          # This name is the mapping name
