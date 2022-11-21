@@ -126,7 +126,7 @@ collections:
     tmdb_show:
       - 253 #Star Trek (1966)
       - 1992 #Star Trek: The Animated Series (1973)
-  'Star Trek: The Next Generation Collection':
+  'Star Trek: The Next Generation':
     template:
       name: TV-collection
     tmdb_show:
