@@ -143,8 +143,8 @@ collections:
   Power Rangers:
     template:
       name: manual-collection
-    tmdb_movie_details:
-      - 9070 #Mighty Morphin Power Rangers: The Movie (1995)
+    tmdb_collection_details:
+      - 708816 #Power Rangers Collection
   The Simpsons:
     template:
       name: manual-collection
