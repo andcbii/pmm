@@ -68,5 +68,3 @@ dynamic_collections:
     template_variables:
       trakt_list:
         100h: https://trakt.tv/users/andcbii/lists/100-horror-movies
-      image:
-        default: universe/<<key>>
