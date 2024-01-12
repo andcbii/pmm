@@ -8,7 +8,7 @@
 external_templates:
   pmm: templates
   template_variables:
-    collection_section: "04"
+    collection_section: "040"
 
 translations:
   pmm: translations
@@ -59,7 +59,7 @@ dynamic_collections:
   100 Horror Movies:
     type: custom
     data:
-      dca: 100 Horror Movies
+      100h: 100 Horror Movies
     template:
       - universe
       - shared
@@ -67,6 +67,6 @@ dynamic_collections:
       - custom
     template_variables:
       trakt_list:
-        dca: https://trakt.tv/users/andcbii/lists/100-horror-movies
+        100h: https://trakt.tv/users/andcbii/lists/100-horror-movies
       image:
         default: universe/<<key>>
