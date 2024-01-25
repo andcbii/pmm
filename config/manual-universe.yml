@@ -30,7 +30,6 @@ templates:
     trakt_list: <<trakt_list_<<key>>>>
     summary: <<summary_<<key>>>>
     name: <<name_<<key>>>>
-    collection_mode: hide_items
 
 collections:
   Universe Collections:
@@ -43,6 +42,7 @@ collections:
 
 dynamic_collections:
   Universe Collections:
+    collection_mode: hide_items
     type: custom
     data:
       dca: DC Animated Universe
@@ -58,6 +58,7 @@ dynamic_collections:
         default: universe/<<key>>
   100 Horror Movies:
     type: custom
+    collection_mode: show_items
     data:
       100h: 100 Horror Movies
     template:
@@ -66,6 +67,5 @@ dynamic_collections:
       - arr
       - custom
     template_variables:
-      collection_mode: show_items
       trakt_list:
         100h: https://trakt.tv/users/andcbii/lists/100-horror-movies
