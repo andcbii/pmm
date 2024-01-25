@@ -52,6 +52,7 @@ dynamic_collections:
       - arr
       - custom
     template_variables:
+      use_separator: false
       trakt_list:
         dca: https://trakt.tv/users/donxy/lists/dc-animated-movie-universe
       image:
@@ -60,7 +61,7 @@ dynamic_collections:
     type: custom
     data:
       100h: 100 Horror Movies
-    collection_mode: default
+    collection_mode: show_items
     template:
       - universe
       - shared
