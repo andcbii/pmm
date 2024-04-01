@@ -175,7 +175,7 @@ collections:
     trakt_list: https://trakt.tv/users/asterlea/lists/walt-disney-animation-studios
     sort_title: '!030_Disney'
     collection_mode: show_items
-  Walt Disney Animation Studios:
+  Pixar Animation Studios:
     url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1712007506/Plex%20-%20PMM%20images/Pixar_Animation_Studios_oyznw4.jpg
     trakt_list: https://trakt.tv/users/asterlea/lists/pixar
     sort_title: '!030_Pixar'
