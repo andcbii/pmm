@@ -174,17 +174,17 @@ collections:
     url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1712007208/Plex%20-%20PMM%20images/walt_disney_animation_studios_by_sithlord38_dfnjnqf-fullview_xsgbmx.jpg
     trakt_list: https://trakt.tv/users/asterlea/lists/walt-disney-animation-studios
     sort_title: '!030_Disney'
-    collection_mode: show_items
+    collection_mode: hide
   Pixar Animation Studios:
     url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1712007506/Plex%20-%20PMM%20images/Pixar_Animation_Studios_oyznw4.jpg
     trakt_list: https://trakt.tv/users/asterlea/lists/pixar
     sort_title: '!030_Pixar'
-    collection_mode: show_items
+    collection_mode: hide
   Studio Ghibli:
     url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1712007882/Plex%20-%20PMM%20images/Studio_Ghibli_weft6f.jpg
     trakt_list: https://trakt.tv/users/trotsig/lists/studio-ghibli-s-feature-films
     sort_title: '!030_Studio Ghibli'
-    collection_mode: show_items
+    collection_mode: hide
       
 dynamic_collections:
   TMDb Collections:          # This name is the mapping name
