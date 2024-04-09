@@ -187,6 +187,13 @@ collections:
     trakt_list: https://trakt.tv/users/trotsig/lists/studio-ghibli-s-feature-films
     sort_title: '!030_Studio Ghibli'
     collection_mode: hide
+  MonsterVerse:
+    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1712692272/Plex%20-%20PMM%20images/MonsterVerse_Collection_fi8pme.png
+    mdblist_list: https://mdblist.com/lists/andcbii/test-list
+    sort_title: '!040_MonsterVerse'
+    collection_order: custom
+    sync_mode: sync
+    collection_mode: hide   
       
 dynamic_collections:
   TMDb Collections:          # This name is the mapping name
