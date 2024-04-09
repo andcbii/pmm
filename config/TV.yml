@@ -170,3 +170,9 @@ collections:
       name: TV-collection
     tmdb_show:
       - 95941 #Zoey's Extraordinary Playlist (2020)
+  MonsterVerse:
+    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1712692272/Plex%20-%20PMM%20images/MonsterVerse_Collection_fi8pme.png
+    mdblist_list: https://mdblist.com/lists/andcbii/test-list
+    collection_order: custom
+    sync_mode: sync
+    collection_mode: hide  
