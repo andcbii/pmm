@@ -172,9 +172,11 @@ collections:
     collection_mode: show_items
   Walt Disney Animation Studios:
     url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1712007208/Plex%20-%20PMM%20images/walt_disney_animation_studios_by_sithlord38_dfnjnqf-fullview_xsgbmx.jpg
-    trakt_list: https://trakt.tv/users/asterlea/lists/walt-disney-animation-studios
+    mdblist_list: https://mdblist.com/lists/andcbii/walt-disney-animation-studios-feature-films
     sort_title: '!030_Disney'
-    collection_mode: hide
+    collection_order: custom
+    sync_mode: sync
+    collection_mode: hide    
   Pixar Animation Studios:
     url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1712007506/Plex%20-%20PMM%20images/Pixar_Animation_Studios_oyznw4.jpg
     trakt_list: https://trakt.tv/users/asterlea/lists/pixar
