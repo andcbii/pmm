@@ -221,5 +221,19 @@ metadata:
     alt_title: Seeking for Justice Children
     year: 2023
     originally_available: 2009-01-19
+  'Mission: Impossible':
+    sort_title: Mission_Impossible_1996
+  'Mission: Impossible II':
+    sort_title: Mission_Impossible_2000
+  'Mission: Impossible III':
+    sort_title: Mission_Impossible_2006
+  'Mission: Impossible - Ghost Protocol':
+    sort_title: Mission_Impossible_2011
+  'Mission: Impossible - Rogue Nation':
+    sort_title: Mission_Impossible_2015
+  'Mission: Impossible - Fallout':
+    sort_title: Mission_Impossible_2018
+  'Mission: Impossible - Dead Reckoning':
+    sort_title: Mission_Impossible_2023
 
   run_again: true
